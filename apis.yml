@@ -1,0 +1,32 @@
+aid: world-bank
+name: World Bank
+description: "World Data"
+url: https://datahelpdesk.worldbank.org/knowledgebase/topics/125589
+specificationVersion: '0.20'
+created: '2026-05-28'
+modified: '2026-05-28'
+x-source: public-apis/public-apis
+x-category: "Science & Math"
+x-tier: 3
+x-tier-reason: bulk-registered-from-public-apis
+tags:
+  - Science And Math
+  - Public APIs
+apis:
+  - name: World Bank
+    description: "World Data"
+    humanURL: https://datahelpdesk.worldbank.org/knowledgebase/topics/125589
+    baseURL: https://datahelpdesk.worldbank.org/knowledgebase/topics/125589
+    tags:
+      - Science And Math
+    properties:
+      - type: Documentation
+        url: https://datahelpdesk.worldbank.org/knowledgebase/topics/125589
+common:
+  - type: Website
+    url: https://datahelpdesk.worldbank.org/knowledgebase/topics/125589
+  - type: PublicAPIsListing
+    url: https://github.com/public-apis/public-apis
+maintainers:
+  - FN: Kin Lane
+    email: kin@apievangelist.com
