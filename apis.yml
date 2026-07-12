@@ -23,6 +23,10 @@ apis:
       - type: Documentation
         url: https://datahelpdesk.worldbank.org/knowledgebase/topics/125589
 common:
+  - type: DomainSecurity
+    url: security/world-bank-domain-security.yml
+  - type: Blog
+    url: https://blogs.worldbank.org/en
   - type: Website
     url: https://datahelpdesk.worldbank.org/knowledgebase/topics/125589
   - type: PublicAPIsListing
