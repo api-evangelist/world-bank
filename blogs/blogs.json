@@ -1,0 +1,21 @@
+{
+  "repo": "world-bank",
+  "feeds": [
+    {
+      "source": "https://blogs.worldbank.org/en",
+      "feed_url": "https://blogs.worldbank.org/en",
+      "title": "",
+      "saved": 0,
+      "method": "none"
+    },
+    {
+      "source": "https://datahelpdesk.worldbank.org/knowledgebase/topics/125589",
+      "feed_url": "https://datahelpdesk.worldbank.org/knowledgebase/topics/125589",
+      "title": "",
+      "saved": 0,
+      "method": "none"
+    }
+  ],
+  "fetched": "2026-07-11T11:50:51Z",
+  "post_count": 3
+}
