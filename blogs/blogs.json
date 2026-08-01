@@ -6,16 +6,18 @@
       "feed_url": "https://blogs.worldbank.org/en",
       "title": "",
       "saved": 0,
-      "method": "none"
+      "method": "none",
+      "error": "parse_failed"
     },
     {
       "source": "https://datahelpdesk.worldbank.org/knowledgebase/topics/125589",
       "feed_url": "https://datahelpdesk.worldbank.org/knowledgebase/topics/125589",
       "title": "",
       "saved": 0,
-      "method": "none"
+      "method": "none",
+      "error": "parse_failed"
     }
   ],
-  "fetched": "2026-07-11T11:50:51Z",
+  "fetched": "2026-08-01T15:38:58Z",
   "post_count": 3
 }
